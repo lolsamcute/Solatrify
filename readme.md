@@ -10,7 +10,7 @@ This is a laravel app that handles QRCode payments, has API for managing transac
  - Then create a database in your database
  - Update the contents of `.env` to reflect your database
  - Then run migration `php artisan migrate`
-  - Install it by running `NPM install` or 'NPM update'
+  - Install it by running `NPM install` or `NPM update`
 
 ## How to reach me
 If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/daveozoalor):
