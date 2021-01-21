@@ -1,0 +1,6 @@
+[13-Feb-2019 14:48:50 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/solaqlig/public_html/post/app/Http/Controllers/WelcomeController.php on line 3
+[06-Mar-2019 09:55:14 UTC] PHP Fatal error:  Cannot use App\Contact as Contact because the name is already in use in /home/solaqlig/public_html/post/app/Http/Controllers/WelcomeController.php on line 17
+[06-Mar-2019 14:24:16 UTC] PHP Fatal error:  Cannot use App\Newsletter as Newsletter because the name is already in use in /home/solaqlig/public_html/post/app/Http/Controllers/WelcomeController.php on line 13
+[22-Mar-2019 15:33:27 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/solaqlig/public_html/post/app/Http/Controllers/WelcomeController.php on line 3
+[22-Mar-2019 15:33:41 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/solaqlig/public_html/post/app/Http/Controllers/WelcomeController.php on line 3
+[22-Mar-2019 15:33:52 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/solaqlig/public_html/post/app/Http/Controllers/WelcomeController.php on line 3
