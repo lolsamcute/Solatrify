@@ -12,18 +12,10 @@ This is a laravel app that handles QRCode payments, has API for managing transac
  - Then run migration `php artisan migrate`
   - Install it by running `NPM install` or `NPM update`
 
-## How to reach me
-If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/daveozoalor):
-
-- [Facebook](https://www.fb.com/daveozoalor) Chat me up
-- [Twitter](https://twitter.com/daveozoalor)
-- [Udemy](https://udemy.com/user/daveozoalor)
-- [Youtube](https://youtube.com/c/braintemorg)
-
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
 ## License
 
-You cannot use all or part of this software in any commercial project without express written permission from the author. daveozoalor@gmail.com
+You cannot use all or part of this software in any commercial project without express written permission from the author. salamisamuel88@yahoo.com
